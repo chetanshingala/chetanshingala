@@ -28,7 +28,7 @@ I'm a Professional Mobile Developer 🎓. I'm a passionate learner who's always 
 
 ### More about me...
 
-- 🔭 I’m currently working on Xamarin Forms, Flutter,Xamarin iOS, Xamarin Android, Javascript, Node js  etc 💻.
+- 🔭 I’m currently working on Xamarin Forms, Flutter,Xamarin iOS, Xamarin Android, Javascript,React, Node js  etc 💻.
 - 🌱 I’m currently learning Full Stack Development with Flutter (Android, iOS, Web, Desktop) 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Flutter and Dart.
 
