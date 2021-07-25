@@ -15,6 +15,10 @@
 <a href="mailto:chetanshingala44@gmail.com">
   <img align="left" alt="Chetan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
 </a>
+<a href="https://join.skype.com/invite/vtSZWcNg4XMp">
+  <img align="left" alt="Chetan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/skype.svg" />
+</a>
+
 
 <br />
 
