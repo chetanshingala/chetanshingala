@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/chetan98211242?s=08">
-  <img align="left" alt="Chetans's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Chetans's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chetan-shingala-06b57914b">
-  <img align="left" alt="Chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/chetanshingala">
-  <img align="left" alt="Kishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Kishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/github.svg" />
 </a>
 <a href="https://stackoverflow.com/users/7516855/chetan">
-  <img align="left" alt="Kishan's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
+  <img align="left" alt="Kishan's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/stackoverflow.svg" />
 </a>
 <a href="mailto:chetanshingala44@gmail.com">
-  <img align="left" alt="Chetan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+  <img align="left" alt="Chetan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/gmail.svg" />
 </a>
 <a href="https://join.skype.com/invite/vtSZWcNg4XMp">
   <img align="left" alt="Chetan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/skype.svg" />
