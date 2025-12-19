@@ -24,13 +24,15 @@
 
 ## Glad to see you here! 🤩 !
 
-I'm a Professional Mobile Developer 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Xamarin Forms Cross plateform app development. I am also exploring my self in flutter app development and working with [Differenz System Pvt. Ltd.](https://github.com/differenz-system) 🤓. Beside's programming, I like delicious food 🥗🥩🌮🍣 , doing sports activity 🏃⛹️‍♂️🏋🏼‍♂️., watching movie 💻.. 
+I'm a Professional Mobile Developer 🎓 with nearly 8 years of experience crafting cross-platform mobile applications. I'm a passionate learner who loves to explore new technologies and apply them to solve real-world problems 💡✨. I also enjoy mentoring aspiring developers and sharing knowledge with the community 👨🏻‍💻.
+Currently, I’m focused on building modern, high-performance apps using .NET MAUI, .NET Android, .NET iOS, Power Apps, and Flutter. I’m proud to be part of the amazing team at Infosys Limited 🤓, where I get to work on exciting projects that push the boundaries of mobile innovation.
+Outside of coding, I’m a big fan of delicious food 🥗🥩🌮🍣, staying active through sports 🏃⛹️‍♂️🏋🏼‍♂️, and unwinding with a good movie 💻.
 
 ### More about me...
+- 🔭 Currently working with .NET MAUI, Flutter, .NET Android, .NET iOS, Power Apps, JavaScript, React, and Node.js 💻
+- 🌱 Exploring Full Stack Development with Flutter (Android, iOS, Web, Desktop) 🚀
+- 👯 Open to collaborating on Open Source Projects involving Flutter, Dart, or .NET technologies
 
-- 🔭 I’m currently working on Xamarin Forms, Flutter,Xamarin iOS, Xamarin Android, Javascript,React, Node js  etc 💻.
-- 🌱 I’m currently learning Full Stack Development with Flutter (Android, iOS, Web, Desktop) 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Flutter and Dart.
 
 ### Show some ❤️ by starring some of the repositories!
 
